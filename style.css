@@ -1,0 +1,50 @@
+#sim {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+#mario {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.IFY {
+    background-color: black;
+    height: 350px;
+    width: 300px;
+    justify-content: center;
+    margin: auto;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.me {
+    background-color: red
+}
+
+.lion {
+    background-color: blue;
+    color: black;
+    display: flex;
+    margin: auto;
+    height: 30px;
+    margin-bottom: 50px;
+    width: 200px;
+    justify-content: center;
+    margin-top: 20px
+}
+.ko{
+    background-color: yellow;
+    display: flex;
+    height: 200px;
+    width: 100px;
+    margin: auto;
+    justify-content: center;   
+}

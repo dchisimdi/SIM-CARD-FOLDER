@@ -1,0 +1,89 @@
+#me{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 7px;
+}
+#twi{
+    background-color: chartreuse;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+#mario {
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+#ko{
+    background-color: orange;
+    color: chartreuse;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+}
+#sim{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    width: 200px
+    margin- auto;
+    border-radius: 7px
+}
+.IFY {
+    background-color:black;
+    border-radius: 5px;
+    height: 500px;
+    width: 1000px;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.king{
+    background-color: yellow;
+    color: chartreuse;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    padding: 10px;
+    height: 150px;  
+}
+.lion{
+    background-color: red;
+    height: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+.me{
+    background-color: navy;
+}
+.koko{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+    margin: right;
+    display: flex;
+    justify-content: center;
+    flex: start;
+}
+.life{
+    display: flex; 
+    justify-content: flex-end;
+    margin-top: 2px;
+    margin-bottom: 70px;
+    float: right;
+    align-items: center;   
+}
