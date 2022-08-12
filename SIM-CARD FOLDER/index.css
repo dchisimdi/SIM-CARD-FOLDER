@@ -14,7 +14,7 @@
     display: flex;
     justify-content: flex-end;
     border-radius: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 #tw{
     height: 50px;
@@ -26,12 +26,12 @@
 #fb{
     height: 50px;
     width: 50px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 #ig{
     height: 50px;
     width: 50PX;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 #mario {
     background-color: orangered;
@@ -80,32 +80,29 @@
 }
 .lion{
     background-color: red;
-    height: 50px;
+    height: 30px;
     width: 250px;
     margin-bottom: 20px;
     margin-top: 20px;
     border-radius: 7px;
-    background-image: linear-gradient(red,yellow,orangered);
 }
 .me{
     background-color: navy;
-    background-image: linear-gradient(orange,green,yellow);
 }
 .koko{
-    height: 200px;
+    height: 250px;
     width: 200px;
-    border-radius: 500%;
+    border-radius: 50%;
     margin: right;
     display: flex;
     justify-content: center;
     flex: start;
-    margin-bottom: 50px;
 }
 .life{
     display: flex; 
     justify-content: flex-end;
-    margin-top: 0px;
-    margin-bottom: 30%;
+    margin-top: 2px;
+    margin-bottom: 70px;
     float: right;
     align-items: center;   
 }
